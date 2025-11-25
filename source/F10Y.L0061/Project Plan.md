@@ -1,2 +1,2 @@
 # F10Y.L0061
-Extended standard types .NET 6.0 foundation library. (Unopinionated)
+.NET 6.0 language-only (foundation) library for Functionairy. (Functionairy-opinioned, but generally-applicable)
